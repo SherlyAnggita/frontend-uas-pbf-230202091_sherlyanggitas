@@ -1,13 +1,41 @@
-<p>
-    CARA INSTALL LARAVEL
-composer global require laravel/installer
-    CARA MEMBUAT FOLDER LARAVEL
-    laravel new frontend-uas-2203020045
-composer create-project laravel/laravel nama_proyek_frontend_baru
-cd frontend-uas-2203020045
-php artisan serve
-test http://127.0.0.1:8000
-</p>
+<p align="center">CARA INSTALL LARAVEL</p>
+
+<b>1. composer global require laravel/installer</b>
+<p align="center">MEMBUAT FOLDER LARAVEL</p>
+<b>1. laravel new frontend-uas-2203020045</b>
+<b>2. composer create-project laravel/laravel nama_proyek_frontend_baru</b>
+<b>3. cd frontend-uas-2203020045</b>
+<b>4. php artisan serve</b>
+<b>5. test http://127.0.0.1:8000</b>
+
+Fitur yang Ada
+- Kelola data pasien (tambah, edit, hapus)
+- Kelola data obat (tambah, edit, hapus)
+- Export data pasien dan obat ke PDF
+- Cari data dengan fitur search di halaman daftar
+
+<p align="center">CARA MENJALANKAN PROJECT</p>
+Menambah Data Baru
+- Klik tombol Tambah Pasien atau Tambah Obat di halaman daftar.
+- Isi form yang muncul dengan data yang lengkap.
+- Klik Simpan untuk menyimpan data baru.
+
+Mengedit Data
+- Di tabel daftar, klik tombol Edit di baris data yang ingin diubah.
+- Form edit akan muncul dengan data lama sudah terisi.
+- Ubah data sesuai kebutuhan, lalu klik Simpan Perubahan.
+
+Menghapus Data
+- Klik tombol Hapus pada data yang ingin dihapus.
+- Akan muncul konfirmasi, klik OK untuk melanjutkan penghapusan.
+
+Mencari Data
+- Gunakan kolom pencarian (search) di bagian atas tabel.
+- Ketik nama pasien atau obat yang dicari, tabel otomatis menyaring hasilnya.
+
+Export Data ke PDF
+- Klik tombol PDF di halaman daftar pasien atau obat.
+- File PDF berisi daftar data akan terunduh otomatis.
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
