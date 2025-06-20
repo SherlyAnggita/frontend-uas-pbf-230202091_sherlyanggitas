@@ -6,7 +6,7 @@
 <b>2. composer create-project laravel/laravel nama_proyek_frontend_baru</b>
 <b>3. cd frontend-uas-230202091</b>
 <b>4. php artisan serve</b>
-<b>5. test http://127.0.0.1:8000</b>
+<b>5. test http://127.0.0.1:8000</b><br>
 
 Fitur yang Ada
 - Kelola data pasien (tambah, edit, hapus)
@@ -14,7 +14,7 @@ Fitur yang Ada
 - Export data pasien dan obat ke PDF
 - Cari data dengan fitur search di halaman daftar
 
-<p align="center">CARA MENJALANKAN PROJECT</p>
+<p align="center">CARA MENJALANKAN PROJECT</p><br>
 Menambah Data Baru
 - Klik tombol Tambah Pasien atau Tambah Obat di halaman daftar.
 - Isi form yang muncul dengan data yang lengkap.
