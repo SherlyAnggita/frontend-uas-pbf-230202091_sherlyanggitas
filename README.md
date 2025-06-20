@@ -1,11 +1,13 @@
 <p align="center">CARA INSTALL LARAVEL</p>
 
 <b>1. composer global require laravel/installer</b>
+
 <p align="center">MEMBUAT FOLDER LARAVEL</p>
-<b>1. laravel new frontend-uas-230202091</b>
-<b>2. composer create-project laravel/laravel nama_proyek_frontend_baru</b>
-<b>3. cd frontend-uas-230202091</b>
-<b>4. php artisan serve</b>
+
+<b>1. laravel new frontend-uas-230202091</b><br>
+<b>2. composer create-project laravel/laravel nama_proyek_frontend_baru</b><br>
+<b>3. cd frontend-uas-230202091</b><br>
+<b>4. php artisan serve</b><br>
 <b>5. test http://127.0.0.1:8000</b><br>
 
 Fitur yang Ada
