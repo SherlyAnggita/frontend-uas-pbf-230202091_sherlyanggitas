@@ -1,3 +1,14 @@
+<p>
+    CARA INSTALL LARAVEL
+composer global require laravel/installer
+    CARA MEMBUAT FOLDER LARAVEL
+    laravel new frontend-uas-2203020045
+composer create-project laravel/laravel nama_proyek_frontend_baru
+cd frontend-uas-2203020045
+php artisan serve
+test http://127.0.0.1:8000
+</p>
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
